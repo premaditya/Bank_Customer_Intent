@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+scikit-learn
+joblib
+numpy
+pandas
+torch
+opencv-python-headless
+mediapipe
+streamlit-mic-recorder
